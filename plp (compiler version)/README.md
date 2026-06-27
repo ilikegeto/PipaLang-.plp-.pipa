@@ -8,8 +8,16 @@
 #HOW I RUN MY .PLP FILE?
 
 1. first thing you must to do is: go to `plptestcpp.cpp` and run or compile it so `PipaCompile.cpp` can update your `plptestcpp.cpp`
-2. to run it write ```.\plptestcpp <Your-Plp-File-Name.plp>``` example: ```.\plptestcpp plptest.plp```
-3. just wait until your file got run :D
+2. to run it write
+    ```bash
+    .\plptestcpp <Your-Plp-File-Name.plp>
+     ```
+    example:
+    ```bash
+    .\plptestcpp plptest.plp
+    ```
+   
+11. just wait until your file got run :D
 ---
 #HELLO WORLD
 
@@ -38,4 +46,8 @@ main_code(){
 ---
 #END AND NOTE
 > C++ version -> 6.3.0
-> discord server `Together C & C++` forum: ```https://discord.com/channels/331718482485837825/1520296776345587824```
+> discord server `Together C & C++`
+> forum:
+> ```bash
+> https://discord.com/channels/331718482485837825/1520296776345587824
+> ```
